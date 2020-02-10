@@ -72,5 +72,5 @@ vignettes/*.pdf
 rsconnect/
 
 .www
-.csv:
+.csv
 
